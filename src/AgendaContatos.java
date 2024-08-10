@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class AgendaContatos {
 
-    private Map<String, Integer> agendaContatoMap;
+    private final Map<String, Integer> agendaContatoMap;
 
     public AgendaContatos() {
         this.agendaContatoMap = new HashMap<>();
