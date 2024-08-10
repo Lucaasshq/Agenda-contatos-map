@@ -6,6 +6,7 @@ public class User {
         agenda.adicionarContato("Aline", 845324257);
         agenda.adicionarContato("Camila", 845324254);
         agenda.adicionarContato("Bob", 235458855);
+        agenda.adicionarContato("Bob", 44745421);
 
         agenda.exibirContatos();
 
